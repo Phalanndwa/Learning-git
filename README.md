@@ -3,6 +3,7 @@ This repo was used to learn git
 
 # Commands Learned
 git clone: Creates a copy of a remote Git repository on your local machine.
+
 git add: Adds changes to the staging area for the next commit.
 git commit -m: Commits the changes in the staging area to the local repository.
 git push: Uploads the local repository changes to the remote repository.
